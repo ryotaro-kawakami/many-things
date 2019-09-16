@@ -20,4 +20,4 @@
 - 投与期間を厳密に考える(治癒前に止めたり、治癒後も使い続けたりしない)
 - 低用量での使用を避け、十分量を投与する
 - 原因菌を見極めて適切な抗菌薬を使用する（コンタミした菌に有効な薬剤を使用しても意味がない）  
-[ホームページ](http://www.kansensho.or.jp/sisetunai/kosyu/pdf/q072.pdf)
+[参考にしたホームページ](http://www.kansensho.or.jp/sisetunai/kosyu/pdf/q072.pdf)
